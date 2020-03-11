@@ -1,4 +1,4 @@
-package com.codingwithmitch.espressouitestexamples.data.source
+package data
 
 import data.Food
 import data.MockFood.BURGER

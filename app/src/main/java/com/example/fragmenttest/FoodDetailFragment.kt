@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.codingwithmitch.espressouitestexamples.data.source.FoodData
 import data.Food
+import data.FoodData
 import kotlinx.android.synthetic.main.fragment_food_detail.*
 
 class FoodDetailFragment : Fragment(){
